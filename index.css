@@ -1,0 +1,18 @@
+.main-div {
+  width: 90vw;
+  margin: 2.5vw;
+}
+
+button { background-color: white;
+    color: black;
+    padding: 12px 60px 12px 60px;
+    /* padding-left: 60px; */
+    /* padding-right: 60px; */
+    border: 1px solid black;
+    box-shadow: -4px 4px;
+    letter-spacing: .2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: Montserrat;
+    font-style: normal;
+}
